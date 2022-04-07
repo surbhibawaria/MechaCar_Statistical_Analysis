@@ -12,9 +12,11 @@
   
 - Is the slope of the linear model considered to be zero? Why or why not?
 
-  The slope of the linear model cannot be considered zero as he p-Value for this model is 5.35e-11, which is much lower than even an extreme level of significance (0.05%), and thus the null hypothesis must be rejected.
+  The slope of the linear model cannot be considered zero as he p-Value for this model is 5.35e-11, which is much lower than the significance level of 0.05%, and thus the null hypothesis must be rejected.
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+  The R-squared value of this linear model is 0.7149 which shows approx 71% accuracy of this model and suggests that 71% of the time the model will predict mpg of MechaCar prototypes effectively.
 
 
 
