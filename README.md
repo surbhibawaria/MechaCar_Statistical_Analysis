@@ -38,24 +38,13 @@ _lot_summary dataframe_
 
 ## T-Tests on Suspension Coils
 
-- Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
-
+Summary of the t-test results across all manufacturing lots
 
 <img width="439" alt="T-Tests on Suspension Coils" src="https://user-images.githubusercontent.com/95826875/162326506-c52eed5e-8e91-4eaf-a0c1-2394f783ff06.png">
+
+Summary of the t-test results across individual manufacturing lots
 
 <img width="596" alt="T-Tests on Suspension Coils all" src="https://user-images.githubusercontent.com/95826875/162326516-88576320-8535-4e03-a3b9-821b689e2e5a.png">
 
 
 ## Study Design: MechaCar vs Competition
-
-- Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-
-- In your description, address the following questions:
-
- What metric or metrics are you going to test?
- 
- What is the null hypothesis or alternative hypothesis?
- 
- What statistical test would you use to test the hypothesis? And why?
- 
- What data is needed to run the statistical test?
