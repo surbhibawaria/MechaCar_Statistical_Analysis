@@ -2,11 +2,14 @@
 
 ## Linear Regression to Predict MPG
 
+<img width="862" alt="Linear Regression to Predict MPG" src="https://user-images.githubusercontent.com/95826875/162326399-48720fc9-f07f-4cbe-91a5-dde88026940a.png">
+
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
 - Is the slope of the linear model considered to be zero? Why or why not?
+
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-<img width="862" alt="Linear Regression to Predict MPG" src="https://user-images.githubusercontent.com/95826875/162326399-48720fc9-f07f-4cbe-91a5-dde88026940a.png">
 
 
 ## Summary Statistics on Suspension Coils
