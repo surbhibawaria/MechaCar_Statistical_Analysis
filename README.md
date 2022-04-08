@@ -60,3 +60,23 @@ In the above summary of the individual manufacturing lots:
 
 
 ## Study Design: MechaCar vs Competition
+
+There could be various factors that can quantify how the MechaCar performs against the competition. Metrics that would be of interest to a consumer can be cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+- What metric or metrics are you going to test?
+  
+  The main metrics to test should be highway fuel efficiency, horse power, and safety rating.
+
+- What is the null hypothesis or alternative hypothesis?
+
+  _Null Hypothesis_: MechaCar is priced correctly as compared to the competition.
+
+  _Alternative Hypothesis_: MechaCar is not priced correctly as compared to the competition.
+
+- What statistical test would you use to test the hypothesis? And why?
+
+  Multiple linear regression would be used to test the hypothesis to determine the factors that has the greatest impact on price.
+
+- What data is needed to run the statistical test?
+
+  Data from different major competitors is needed to run the statistical test.
