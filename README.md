@@ -38,15 +38,25 @@ _lot_summary dataframe_
 
 ## T-Tests on Suspension Coils
 
-Summary of the t-test results across all manufacturing lots
+_Summary of the t-test results across all manufacturing lots_
 
 <img width="439" alt="T-Tests on Suspension Coils" src="https://user-images.githubusercontent.com/95826875/162326506-c52eed5e-8e91-4eaf-a0c1-2394f783ff06.png">
 
-In the above summary of all manufacturing Lots, p-value is 0.06028 which is not low enough to reject the null hypothesis. The mean of all three manufacturing lots is 1498.78, which is statistically similar to the presumed population mean of 1500.
+In the above summary of all manufacturing lots, p-value is 0.06028 which is not low enough to reject the null hypothesis. The mean of all three manufacturing lots is 1498.78, which is statistically similar to the presumed population mean of 1500.
 
-Summary of the t-test results across individual manufacturing lots
+
+_Summary of the t-test results across individual manufacturing lots_
 
 <img width="596" alt="T-Tests on Suspension Coils all" src="https://user-images.githubusercontent.com/95826875/162326516-88576320-8535-4e03-a3b9-821b689e2e5a.png">
+
+In the above summary of the individual manufacturing lots:
+
+- p-value of Lot1 is 1 which is not lower enough than the significance level of 0.05 to reject the null hypothesis. The mean of the manufacturing Lot1 is 1500, which is the actual presumed population mean of 1500.
+
+- p-value of Lot2 is 0.6072 which is not lower enough than the significance level of 0.05 to reject the null hypothesis. The mean of the manufacturing Lot2 is 1500.2, which is quite statistically similar to the presumed population mean of 1500.
+
+- p-value of Lot3 is 0.04168 which is lower than the significance level of 0.05 to reject the null hypothesis. The mean of the manufacturing Lot3 is 1496.14, this sample mean and the presumed population mean are not statistically different.
+
 
 
 ## Study Design: MechaCar vs Competition
