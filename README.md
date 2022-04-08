@@ -42,6 +42,8 @@ Summary of the t-test results across all manufacturing lots
 
 <img width="439" alt="T-Tests on Suspension Coils" src="https://user-images.githubusercontent.com/95826875/162326506-c52eed5e-8e91-4eaf-a0c1-2394f783ff06.png">
 
+In the above summary of all manufacturing Lots, p-value is 0.06028 which is not low enough to reject the null hypothesis. The mean of all three manufacturing lots is 1498.78, which is statistically similar to the presumed population mean of 1500.
+
 Summary of the t-test results across individual manufacturing lots
 
 <img width="596" alt="T-Tests on Suspension Coils all" src="https://user-images.githubusercontent.com/95826875/162326516-88576320-8535-4e03-a3b9-821b689e2e5a.png">
