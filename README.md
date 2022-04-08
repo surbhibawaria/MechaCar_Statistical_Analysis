@@ -64,18 +64,20 @@ In the above summary of the individual manufacturing lots:
 There could be various factors that can quantify how the MechaCar performs against the competition.
 
 - What metric or metrics are you going to test? 
+
+  Metrics that would be of interest to a consumer are:
   
-  _Cost_: Dependent Variable
+  1. _Cost_: Dependent Variable
   
-  _Drive Package_: Independent Variable
+  2. _Drive Package_: Independent Variable
   
-  _Engine Type_: Independent Variable
+  3. _Engine Type_: Independent Variable
   
-  _Maintenance Cost_: Independent Variable
+  4. _Maintenance Cost_: Independent Variable
   
-  _MPG_: Independent Variable
+  5. _MPG_: Independent Variable
   
-  _Safety Rating_: Independent Variable
+  6. _Safety Rating_: Independent Variable
 
 
 - What is the null hypothesis or alternative hypothesis?
