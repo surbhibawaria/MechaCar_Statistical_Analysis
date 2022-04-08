@@ -61,11 +61,17 @@ In the above summary of the individual manufacturing lots:
 
 ## Study Design: MechaCar vs Competition
 
-There could be various factors that can quantify how the MechaCar performs against the competition. Metrics that would be of interest to a consumer can be cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+There could be various factors that can quantify how the MechaCar performs against the competition.
 
-- What metric or metrics are you going to test?
+- What metric or metrics are you going to test? 
   
-  The main metrics to test should be cost, horse power, and safety rating.
+  Cost: Dependent Variable
+  Drive Package : Independent Variable
+  Engine Type: Independent Variable
+  Maintenance Cost: Independent Variable
+  MPG: Independent Variable
+  Safety Rating: Independent Variable
+
 
 - What is the null hypothesis or alternative hypothesis?
 
