@@ -65,7 +65,7 @@ There could be various factors that can quantify how the MechaCar performs again
 
 - What metric or metrics are you going to test?
   
-  The main metrics to test should be highway fuel efficiency, horse power, and safety rating.
+  The main metrics to test should be cost, horse power, and safety rating.
 
 - What is the null hypothesis or alternative hypothesis?
 
@@ -75,8 +75,8 @@ There could be various factors that can quantify how the MechaCar performs again
 
 - What statistical test would you use to test the hypothesis? And why?
 
-  Multiple linear regression would be used to test the hypothesis to determine the factors that has the greatest impact on price.
+  Multiple linear regression would be used to test the hypothesis to determine the factors that has the greatest impact on price. Multiple linear regression statistical summary would show how the variables impact the prices for MechaCar and their competitors.
 
 - What data is needed to run the statistical test?
 
-  Data from different major competitors is needed to run the statistical test.
+  A sample data from MechsCar and the major competitors is needed to run the statistical test including the cost, horse power, and safety rating.
