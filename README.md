@@ -65,12 +65,17 @@ There could be various factors that can quantify how the MechaCar performs again
 
 - What metric or metrics are you going to test? 
   
-  Cost: Dependent Variable
-  Drive Package : Independent Variable
-  Engine Type: Independent Variable
-  Maintenance Cost: Independent Variable
-  MPG: Independent Variable
-  Safety Rating: Independent Variable
+  _Cost_: Dependent Variable
+  
+  _Drive Package_: Independent Variable
+  
+  _Engine Type_: Independent Variable
+  
+  _Maintenance Cost_: Independent Variable
+  
+  _MPG_: Independent Variable
+  
+  _Safety Rating_: Independent Variable
 
 
 - What is the null hypothesis or alternative hypothesis?
