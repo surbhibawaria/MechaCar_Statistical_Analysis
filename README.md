@@ -2,7 +2,7 @@
 
 # Overview
 
-Jeremy has been working with AutosRUs for 10 years. In his time he's seen a lot of cars come and go and the comapny is finally reakizing that their decision making process could be moved into the 21st century. Jeremy, with his strong internal connections and exhaustive knowledge of the product has benn selected as the primary analyst for the comapny's data analytics team. 
+Jeremy has been working with AutosRUs for 10 years. In his time he's seen a lot of cars come and go and the comapny is finally realizing that their decision making process could be moved into the 21st century. Jeremy, with his strong internal connections and exhaustive knowledge of the product has benn selected as the primary analyst for the comapny's data analytics team. 
 
 The data analytics team is in charge of performing retrospective analysis of historical data, analytical verification, and validation of current automotive specifications, and study design of  future product testing. 
 
