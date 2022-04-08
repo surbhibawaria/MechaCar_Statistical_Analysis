@@ -2,6 +2,16 @@
 
 # Overview
 
+Jeremy has been working with AutosRUs for 10 years. In his time he's seen a lot of cars come and go and the comapny is finally reakizing that their decision making process could be moved into the 21st century. Jeremy, with his strong internal connections and exhaustive knowledge of the product has benn selected as the primary analyst for the comapny's data analytics team. 
+
+The data analytics team is in charge of performing retrospective analysis of historical data, analytical verification, and validation of current automotive specifications, and study design of  future product testing. 
+
+The AutosRUs executive team recognizes that the most successful automobile launches utilize data analytics in every decision making process. Therefore, Jeremy must ensure that his analysis contain a statistical backbone, a quantitative metric, and clear interpretation of the results in order to keep upper management happy. 
+
+### Purpose
+
+The purpose of this module is to help Jeremy perform statistical tests using the R programming language. To provide summary statistics for different variables, visualizations for different datasets, and interpretation of statistical test results. In addition, to use critical thinking skills to propose a study design, hypothesis, and analysis workflow in order to make AutosRUs manufacturing process even better.
+
 ## Linear Regression to Predict MPG
 
 <img width="862" alt="Linear Regression to Predict MPG" src="https://user-images.githubusercontent.com/95826875/162326399-48720fc9-f07f-4cbe-91a5-dde88026940a.png">
